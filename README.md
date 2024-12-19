@@ -3,9 +3,8 @@
 ## Overview
  A device to measure the turbidity of a liquid with 99% accuracy.
 
-![Screenshot](/images/turbidity-schematic.jpg)
-![Screenshot](/images/failing-liquid.png)
-![Screenshot](/images/passing-liquid.png)
+<img src="/images/turbidity-schematic.jpg" alt="Turbidity Schematic" width="300" height="300" />
+<img src="/images/failing-liquid.png" alt="Failing Liquid" width="300" height="400" /> <img src="/images/passing-liquid.png" alt="Passing Liquid" width="300" height="400" />
 
 ## Components
 - `elegoo Uno R3` - main controller.
